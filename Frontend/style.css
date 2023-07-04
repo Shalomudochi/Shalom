@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    margin-top: 0px; grid-auto-flow: dense;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f4f4f480;
+  }
+  
+  .btn {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #0d6405;
+    color: white;
+    border: #44aac3s;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+  
+  .error {
+    color: rgba(255, 0, 0, 0.747);
+  }
+  
